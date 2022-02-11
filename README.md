@@ -50,3 +50,8 @@ Following are the stages of the Git;
 - Staged
 - Commit
 
+## 6- 3 methods of git reset? ##
+There are three command line options that correspond to the three trees. The options are:
+- --soft - (git reset --soft)
+- --mixed - (git reset --mixed)
+- --hard - (git reset --hard)
