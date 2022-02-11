@@ -17,3 +17,12 @@ Continuous integration (CI) is the practice of automating the integration of cod
 ### - Continuous Deployment ###
 - Continuous Deployment (CD) is a software release process that uses automated testing to validate if changes to a codebase are correct and stable for immediate autonomous deployment to a production environment.
 
+## 3- What are the benefits of Cloud Computing ##
+A few of the major benefits of Cloud Computing are:
+- Reduced IT costs
+- Scalability
+- Business continuity
+- Collaboration efficiency
+- Flexibility of work practices
+- Access to automatic updates
+
