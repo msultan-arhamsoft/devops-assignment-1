@@ -35,6 +35,7 @@ A few of the major benefits of Cloud Computing are:
 - Git is focused on version control and code sharing.
 - Git is a version control system to manage source code history.
 - Git has no user management feature.
+
 ### GitHub ###
 - GitHub is a service.
 - GitHub is a graphical user interface
